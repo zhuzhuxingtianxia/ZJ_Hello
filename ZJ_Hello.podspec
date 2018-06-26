@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZJ_Hello'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'ZJ_Hello.'
 
 # This description is used to generate tags and improve search results.
